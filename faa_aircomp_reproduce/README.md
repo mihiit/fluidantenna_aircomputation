@@ -3,7 +3,8 @@
 **"Energy-Efficient Fluid Antenna Array for Over-the-Air Computation:  
 Joint Port Selection and Power Control"**  
 Mihit Nanda — IILM University, Greater Noida, India  
-*IEEE Wireless Communications Letters* (submitted 2025)
+Hannah Nagpall  — Texas A&M University , Kingsville ,USA
+*IEEE Wireless Communications Letters* (submitted 2026)
 
 ---
 
@@ -249,11 +250,11 @@ print(f"E* = {result.mean_dBm:.2f} dBm ± {result.se_dBm:.2f}")
 
 ```bibtex
 @article{nanda2025faa,
-  author  = {Mihit Nanda},
+  author  = {Mihit Nanda , Hannah Nagpall},
   title   = {Energy-Efficient Fluid Antenna Array for Over-the-Air
              Computation: Joint Port Selection and Power Control},
   journal = {IEEE Wireless Communications Letters},
-  year    = {2025},
+  year    = {2026},
   note    = {Submitted}
 }
 ```
